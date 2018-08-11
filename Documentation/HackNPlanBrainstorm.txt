@@ -1,0 +1,23 @@
+walking around
+camera
+switching characters (2/3 different)
+planting trees
+platform building
+Connecting (automatic connecting for now)
+collecting resources (inventory)
+spending resources (assigning rooms)
+nighttime (getting attacked/fighting)
+
+
+walking around
+collecting resources
+planting trees
+platforms on trees
+connecting treehouses
+
+Walkable environment (collisions)
+art for resources (wood, stone, metal, water, leaves, acorns)
+platform art (maybe some kind of reward for having resources)
+Walkable platforms/connectors
+1-2-3 basic tree setups
+Character01
